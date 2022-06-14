@@ -1,4 +1,4 @@
-package airticket;
+package songGallery;
 
 //Κλάση με την οποία ορίζουμε το Style των κουμπιών
 import java.awt.Dimension;
